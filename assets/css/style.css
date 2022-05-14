@@ -38,7 +38,7 @@ header nav ul li {
 }
 
 
- 
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -54,7 +54,7 @@ header span {
     padding: 0;
 }
 
-/*end of header */ 
+/*end of header */
 
 /*main image */
 
@@ -117,7 +117,7 @@ header span {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 80%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     color: #ffffff;
@@ -127,13 +127,14 @@ header span {
     margin-bottom: 20px;
     text-align: center;
 }
+
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* end of result side panel */ 
+/* end of result side panel */
 
 footer {
     padding: 30px;
@@ -142,6 +143,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
